@@ -1,2 +1,2 @@
-log.consol('photogenic');
-log.consol('kaushal');
+log.consol('photogenic_kaushal');
+log.consol('kaushalkejriwal');
